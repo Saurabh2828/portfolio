@@ -494,7 +494,7 @@ body {
   100% { stroke-dashoffset: 50; }  /* 90% */
 }
 @keyframes animate-path2 {
-  100% { stroke-dashoffset: 175; } /* 65% */
+  100% { stroke-dashoffset: 75; } /* 65% */
 }
 @keyframes animate-path3 {
   100% { stroke-dashoffset: 125; } /* 75% */
